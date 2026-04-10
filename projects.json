@@ -1,0 +1,50 @@
+[
+  {
+    "topic": "AI Agent",
+    "year": "2026",
+    "title": "QuantNet: Triple-Threat Stock Predictor",
+    "description": "Autonomous n8n agent utilizing a 'Triple Threat' data strategy—Technical, Fundamental, and Sentiment analysis to predict stock price movements and estimate potential daily gains.",
+    "techStack": ["Gemini", "N8n", "JavaScript"],
+    "features": [
+      "Multi-Source Data Ingestion (Technical + Fundamental)",
+      "Real-time News Sentiment Analysis",
+      "Predictive ROI Estimation"
+    ]
+  },
+  {
+    "topic": "AI Agent",
+    "year": "2025",
+    "title": "FinAgent: Autonomous Expense Intelligence",
+    "description": "Autonomous AI assistant extracting financial data from WhatsApp and email to automate expense tracking via real-time Google Sheets synchronization and intelligent analysis.",
+    "techStack": ["Gemini", "N8n", "JavaScript"],
+    "features": [
+      "AI-Powered Receipt Parsing (OCR)",
+      "Multi-Channel Ingestion (WhatsApp/Email)",
+      "Autonomous Sheets Synchronization"
+    ]
+  },
+  {
+    "topic": "Full-Stack",
+    "year": "2025",
+    "title": "UniVote: Blockchain Based Voting - System",
+    "description": "Decentralized voting platform utilizing blockchain technology to ensure transparent, tamper-proof election results through secure smart contracts and an immutable digital ledger system.",
+    "techStack": ["Solidity", "Ethereum", "Express", "MongoDB", "Web3.js"],
+    "features": [
+      "Immutable Smart Contract Logic",
+      "Transparent, Publicly Verifiable Results",
+      "Sybil-Resistant Voter Authentication"
+    ]
+  },
+  {
+    "topic": "AI Agent",
+    "year": "2025",
+    "title": "LlamaLink: Local-LLM WhatsApp AI Bot",
+    "description": "Autonomous agent utilizing a locally-hosted Llama model to monitor WhatsApp, parse incoming conversations, and generate intelligent, human-like responses in real-time.",
+    "techStack": ["Llama 3", "Selenium", "Express", "NLP", "Automation"],
+    "features": [
+      "Privacy-First Local AI Inference",
+      "Automated Browser-Based Interaction",
+      "Adaptive Conversational Context"
+    ]
+  }
+]
