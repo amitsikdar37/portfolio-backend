@@ -1,29 +1,5 @@
 [
   {
-    "topic": "AI Agent",
-    "year": "2026",
-    "title": "QuantNet: Triple-Threat Stock Predictor",
-    "description": "Autonomous n8n agent utilizing a 'Triple Threat' data strategy—Technical, Fundamental, and Sentiment analysis to predict stock price movements and estimate potential daily gains.",
-    "techStack": ["Gemini", "N8n", "JavaScript"],
-    "features": [
-      "Multi-Source Data Ingestion (Technical + Fundamental)",
-      "Real-time News Sentiment Analysis",
-      "Predictive ROI Estimation"
-    ]
-  },
-  {
-    "topic": "AI Agent",
-    "year": "2025",
-    "title": "FinAgent: Autonomous Expense Intelligence",
-    "description": "Autonomous AI assistant extracting financial data from WhatsApp and email to automate expense tracking via real-time Google Sheets synchronization and intelligent analysis.",
-    "techStack": ["Gemini", "N8n", "JavaScript"],
-    "features": [
-      "AI-Powered Receipt Parsing (OCR)",
-      "Multi-Channel Ingestion (WhatsApp/Email)",
-      "Autonomous Sheets Synchronization"
-    ]
-  },
-  {
     "topic": "Full-Stack",
     "year": "2025",
     "title": "UniVote: Blockchain Based Voting - System",
@@ -45,6 +21,32 @@
       "Privacy-First Local AI Inference",
       "Automated Browser-Based Interaction",
       "Adaptive Conversational Context"
+    ]
+  },
+  {
+    "topic": "Website",
+    "year": "2026",
+    "title": "Coca Cola Site",
+    "description": "A high-fidelity, cinematic web experience featuring a performance-optimized 3D bottle rotation powered by scroll-linked canvas frame sequences, delivering an immersive brand storytelling journey.",
+    "techStack": ["React.js", "GSAP", "Framer Motion", "Flow"],
+    "features": [
+      "Scroll-Linked 3D Bottle Animation (Canvas-based)",
+      "Smooth GSAP & Framer Motion Orchestration",
+      "Responsive Glassmorphism Design System",
+      "Performance-Optimized Asset Preloading"
+    ]
+  },
+  {
+    "topic": "Website",
+    "year": "2026",
+    "title": "Ather 450 Apex Site",
+    "description": "A high-fidelity digital showroom for the Ather 450 Apex featuring a performance-optimized 3D vehicle exploration. Powered by a scroll-linked sequence of 1,200+ high-resolution canvas frames, delivering an immersive brand storytelling journey.",
+    "techStack": ["React.js", "Tailwind CSS", "GSAP", "Canvas API"],
+    "features": [
+      "Scroll-Linked 3D Canvas Rendering (1,200+ frames)",
+      "Cinematic Preloader & Optimized Asset Loading",
+      "Smooth GSAP Scroll-Triggered Transitions",
+      "Responsive Glassmorphism UI & Dark Theme"
     ]
   }
 ]
